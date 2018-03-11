@@ -1,2 +1,1 @@
-Thanks to the Odin Project
-Testing the git functions
+Thanks to the Odin Project for helping me to learn how git functions
